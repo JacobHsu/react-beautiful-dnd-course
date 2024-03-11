@@ -2,7 +2,9 @@
 
 `npx create-react-app task-app`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+
+We have created [a free course](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd) on egghead.io 🥚 to help you get started with react-beautiful-dnd as quickly as possible.
 
 ## Available Scripts
 
