@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 We have created [a free course](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd) on egghead.io 🥚 to help you get started with react-beautiful-dnd as quickly as possible.
 
+codesandbox [react-beautiful-dnd-task-app](https://codesandbox.io/embed/github/alexreardon/react-beautiful-dnd-task-app/tree/lesson-2/?hidenavigation=1)
+
 ## Available Scripts
 
 In the project directory, you can run:
